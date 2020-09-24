@@ -8,3 +8,75 @@ img {
   margin-top: 3rem;
   width: 100%;
 }
+
+/* Color Changes */
+
+.purple {
+  background-color: purple;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.royalblue {
+  background-color: royalblue;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.gold {
+  background-color: gold;
+}
+
+/* Font Changes */
+
+.impact {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.franklin {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lucida {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.georgia {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gill {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cambria {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
